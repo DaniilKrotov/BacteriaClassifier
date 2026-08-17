@@ -1,0 +1,23 @@
+{
+  "grid_rows": 6,
+  "grid_cols": 6,
+  "feature_version": "grid_patch_v1",
+  "petri_cfg": {
+    "output_size": 1024,
+    "padding": 0.0,
+    "fill_black": true,
+    "debug": false
+  },
+  "classes_seen": [
+    "1 ( Acinetobacter - ацинетобактерии )",
+    "2 (Staphylococcus aureus - золотистый стафилококк - рана)",
+    "3 ( Pseudomonas aeruginosa - синегнойная палочка - рана)",
+    "4 (Escherichia coli - кишечная палочка)",
+    "5 ( escherichia faecalis - моча - эшерихия фекальная)",
+    "6 (ликвор - Acinetobacter baumannii - ацинобактерии Бауманна)",
+    "7 ( Pseudomonas aeruginosa - синегнойная палочка - посев на моче)",
+    "8 ( klebsiella pneumoniae - моча - клебсиелла пневмонии)"
+  ],
+  "model_type": "rf",
+  "feature_dim": 2404
+}
